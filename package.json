@@ -1,0 +1,28 @@
+{
+  "name": "npm-demo-vncz14",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/npm-demo-vncz14.git"
+  },
+  "author": "a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/npm-demo-vncz14/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/npm-demo-vncz14#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
